@@ -11,14 +11,14 @@ const projects = [
     githubUrl: "https://github.com/Chameleon-company/MOP-Code/tree/master/artificial-intelligence/chatbot",
   },
   {
-    id: 2,
-    title: "E-comerce Platform",
+    id: 4,
+    title: "Integrating CMT and Machine Learning (ML) to predict trend-reversal area (macro)",
     description:
-      "Full-featured e-commerce platform with user authentication, payment processing and order management.",
-    image: "/projects/project2.png",
-    tags: ["HTML/CSS", "JavaScript"],
-    demoUrl: "https://deakin.au.panopto.com/Panopto/Pages/Viewer.aspx?id=3a781676-6890-4af1-8a33-b1fb01490f57",
-    githubUrl: "#",
+      "Cross-validation of Chartered Market Technician + Classification and Time-series ML models to predict trend-reversal point.",
+    image: "/projects/project4.png",
+    tags: ["CMT", "Python", "Pandas", "Scikit-learn"],
+    demoUrl: "#contact",
+    githubUrl: "#contact",
   },
   {
     id: 3,
@@ -28,6 +28,16 @@ const projects = [
     image: "/projects/project3.png",
     tags: ["Python", "Pandas", "Scikit-learn"],
     demoUrl: "https://www.kaggle.com/competitions/widsdatathon2025",
+    githubUrl: "#",
+  },
+  {
+    id: 2,
+    title: "E-comerce Platform",
+    description:
+      "Full-featured e-commerce platform with user authentication, payment processing and order management.",
+    image: "/projects/project2.png",
+    tags: ["HTML/CSS", "JavaScript"],
+    demoUrl: "https://deakin.au.panopto.com/Panopto/Pages/Viewer.aspx?id=3a781676-6890-4af1-8a33-b1fb01490f57",
     githubUrl: "#",
   },
 ];

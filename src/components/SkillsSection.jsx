@@ -21,9 +21,15 @@ const skills = [
   // Cloud & Development Tools
   { name: "AWS (Cognito, Lambda, DynamoDB)", level: 90, category: "CloudDev" },
   { name: "Git/GitHub", level: 90, category: "CloudDev" },
+
+  // CMT
+  { name: "Trend", level: 90, category: "Chartered Market Technician" },
+  { name: "Amplitude", level: 80, category: "Chartered Market Technician" },
+  { name: "Cycle", level: 80, category: "Chartered Market Technician" },
+  { name: "Moving Wave", level: 75, category: "Chartered Market Technician" },
 ];
 
-const categories = ["all", "programming Languages", "AI/ML", "CloudDev"];
+const categories = ["all", "programming Languages", "AI/ML", "CloudDev", "Chartered Market Technician"];
 
 export const SkillsSection = () => {
   const [activeCategory, setActiveCategory] = useState("all");
