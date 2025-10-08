@@ -6,7 +6,7 @@ const projects = [
     title: "Public Transport Chatbot",
     description: "Presented at Deakin InnoFes 2025, PT Chatbot gives user advice about public transport, route, trip planner and disruptions/delays.",
     image: "/projects/project1.png",
-    tags: ["React", "TailwindCSS", "Supabase"],
+    tags: ["Python", "Rasa", "HTML/CSS", "Javascript"],
     demoUrl: "https://www.linkedin.com/posts/andre-nguyen-0298a9287_experiences-as-student-representative-activity-7376782506324447232-ZVLX?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEW4tuEBkwqqmDhwjY6v-Y3RSHD4BSFCKQ4",
     githubUrl: "https://github.com/Chameleon-company/MOP-Code/tree/master/artificial-intelligence/chatbot",
   },
