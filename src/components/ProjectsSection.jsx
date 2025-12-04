@@ -40,6 +40,16 @@ const projects = [
     demoUrl: "https://deakin.au.panopto.com/Panopto/Pages/Viewer.aspx?id=3a781676-6890-4af1-8a33-b1fb01490f57",
     githubUrl: "#",
   },
+  {
+    id: 5,
+    title: "Research Project",
+    description:
+      "Exploration and mitigation of deep learning-based sleep apnea detection",
+    image: "/projects/project5.png",
+    tags: ["Research"],
+    demoUrl: "#",
+    githubUrl: "https://github.com/andrengyyen/sleep-apnea",
+  },
 ];
 
 export const ProjectsSection = () => {
