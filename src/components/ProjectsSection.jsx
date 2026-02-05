@@ -24,11 +24,11 @@ const projects = [
     id: 5,
     title: "Research Project",
     description:
-      "Exploration and mitigation of deep learning-based sleep apnea detection",
+      "Exploration and mitigation of age-specific bias in deep learning-based sleep apnea detection",
     image: "/projects/project5.png",
     tags: ["Research"],
     demoUrl: "#",
-    githubUrl: "https://github.com/andrengyyen/sleep-apnea",
+    githubUrl: "https://github.com/andrengyyen/DANN-age-debias-sleep-apnea",
   },
   {
     id: 3,
