@@ -28,7 +28,7 @@ const projects = [
     image: "/projects/project5.png",
     tags: ["Research"],
     demoUrl: "#",
-    githubUrl: "https://github.com/andrengyyen/DANN-age-debias-sleep-apnea",
+    githubUrl: "https://github.com/andrengyyen/age-debias-sleep-apnea",
   },
   {
     id: 3,
