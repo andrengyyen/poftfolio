@@ -3,7 +3,7 @@ import { ArrowRight, ExternalLink, Github } from "lucide-react";
 const projects = [
   {
     id: 1,
-    title: "Public Transport Chatbot",
+    title: "Public Transport Agent (AI)",
     description: "Presented at Deakin InnoFes 2025, PT Chatbot gives user advice about public transport, route, trip planner and disruptions/delays.",
     image: "/projects/project1.png",
     tags: ["Python", "Rasa", "HTML/CSS", "Javascript"],
